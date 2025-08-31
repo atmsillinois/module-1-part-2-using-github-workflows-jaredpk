@@ -1,7 +1,9 @@
-# Create a README.md
+# Updated README.md
+## Mostly for Practice ##
+- Practicing some **Basic Formatting** as *this will be important.*
+- It was easy to ask AI to do, but good to know in general what to do.
 
-If you need help with `Markdown`, check out [The Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)!
+> Note I am going to try creating a new branch and pull request.
 
-What should a good README.md look like? Check out these [guidelines](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+**Note next step will be to check pull request**
 
-Did you add an open source software license?
