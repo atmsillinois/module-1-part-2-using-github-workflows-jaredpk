@@ -1,9 +1,5 @@
-# Updated README.md
-## Mostly for Practice ##
-- Practicing some **Basic Formatting** as *this will be important.*
-- It was easy to ask AI to do, but good to know in general what to do.
-
-> Note I am going to try creating a new branch and pull request.
-
-**Note next step will be to check pull request**
-
+#University of Illinois Score Differentiator#
+- List **each opponent** the University of Illinois will pay in 2025.
+- Prompts for the *University of Illinois* score.
+- Promps for the *opponent score*.
+- Calculates the differential.
